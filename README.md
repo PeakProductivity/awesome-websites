@@ -53,6 +53,7 @@ Most of the websites are just for fun and some are very useful for specific purp
 * [https://aisotools.com](https://aisotools.com/) : A directory of 1,200+ AI tools across 21 categories with search, side-by-side comparison and an AI-search visibility monitor. Listing a tool is free. :free:
 
 * [https://aiskyla.com](https://aiskyla.com/) : AIskyla Gifting creates free animated eCards, love letters and virtual gifts with messages, photos and music, shared by browser link without signup. Uploaded photos and music expire after 15 days. :free:
+* [https://apps66.com](https://apps66.com/) : Privacy-first web utilities featuring 100% browser-local exact-KB image compression, bulk marketplace image resizing, and local PDF merging (zero uploads, free up to 5 files/batch without signup), plus server-side vgmstream game audio decoding and zero-retention PDF unlocking (free up to 50 MB / 3 per 24h).
 
 ## B :
 * [https://bestjson.com](https://bestjson.com/) : Free browser tools to format, validate, repair and compare JSON locally, with a preview of repair changes and no account required. :free:
